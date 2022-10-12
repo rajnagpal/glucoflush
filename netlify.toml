@@ -1,0 +1,5 @@
+[[redirects]]
+from = "/order"
+to = "https://hop.clickbank.net/?affiliate=rajnagpal&vendor=glucoflush&cbpage=tsl#order-now"
+status = 301
+force = true
